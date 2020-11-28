@@ -9,3 +9,9 @@ thank you
 ----------
 Some of the results which I obtained from these scripts are shown below. Data is visualized on Pakistani Maps using Tableau.
 
+
+# Actual Cases Citywise 
+
+
+
+

@@ -15,7 +15,7 @@ Some of the results which I obtained from these scripts are shown below. Data is
 
 
 <p float="left">
-  <img src="https://github.com/Uzair-Khattak/PAK-COVID-19-Citywise-and-District-wise-analysis/blob/master/Results%20Images/g1.PNG" width="330"  />
+  <img src="https://github.com/Uzair-Khattak/PAK-COVID-19-Citywise-and-District-wise-analysis/blob/master/Results%20Images/g1.PNG" width="320"  />
   <img src="https://github.com/Uzair-Khattak/PAK-COVID-19-Citywise-and-District-wise-analysis/blob/master/Results%20Images/g2.PNG" width="340"  />
   <img src="https://github.com/Uzair-Khattak/PAK-COVID-19-Citywise-and-District-wise-analysis/blob/master/Results%20Images/g3.PNG"  width="340" />
   

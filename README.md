@@ -11,7 +11,7 @@ thank you
 Some of the results which I obtained from these scripts are shown below. Data is visualized on Pakistani Maps using Tableau.
 
 
-# Actual Cases Citywise 
+# Actual Cases Districtwise 
 
 
 <p float="left">
@@ -21,3 +21,12 @@ Some of the results which I obtained from these scripts are shown below. Data is
   
 </p>
 
+# Results on Tableau
+The csv files generated from the above scripts (which are also well documented) were used to visual the results on Tableau
+
+![alt text](https://github.com/Uzair-Khattak/PAK-COVID-19-Citywise-and-District-wise-analysis/blob/master/Results%20Images/symptons%20score.jpeg)
+
+
+![alt text](https://github.com/Uzair-Khattak/PAK-COVID-19-Citywise-and-District-wise-analysis/blob/master/Results%20Images/actual%20cases.jpeg)
+
+![alt text](https://github.com/Uzair-Khattak/PAK-COVID-19-Citywise-and-District-wise-analysis/blob/master/Results%20Images/actual%20cases%20v1.jpeg)

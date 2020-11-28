@@ -12,6 +12,11 @@ Some of the results which I obtained from these scripts are shown below. Data is
 
 # Actual Cases Citywise 
 
+<p float="left">
+  <img src="https://github.com/Uzair-Khattak/PAK-COVID-19-Citywise-and-District-wise-analysis/tree/master/Results%20Images" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 
 
 

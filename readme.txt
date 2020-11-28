@@ -5,3 +5,7 @@ the code is totally generic and fully commented nearly each line which explains 
 Just plug and play notebook ,and can be used for your own purposes
 REMEMBER TO DOWNLOAD ALL EXCEL FILES SO THE CODE CAN GET LINK TO READ THOSE FILES
 thank you
+
+----------
+Some of the results which I obtained from these scripts are shown below. Data is visualized on Pakistani Maps using Tableau.
+
